@@ -165,6 +165,7 @@ footer{
 .contact{
     grid-column-start: 2;
     padding: 15px;
+    font-family: 'Rubik', sans-serif;
 }
 
 .contact > p:first-of-type {
@@ -172,6 +173,7 @@ footer{
     margin: 0px;
     padding: 0px;
     margin-bottom: 30px;
+    font-family: 'Rufina', sans-serif;
 }
 
 .contact p, .logos{
@@ -188,6 +190,7 @@ form{
     padding: 55px 15px 15px 15px;
     display: flex;
     flex-direction: column;
+    font-family: 'Rufina', sans-serif;
 }
 
 
