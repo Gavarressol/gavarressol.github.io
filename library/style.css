@@ -46,7 +46,7 @@ a {
 }
 
 .bottom{
-    background-image: url("/library/Images/banner.jpg");
+    background-image: url("../library/Images/banner.jpg");
     background-position:center;
     background-size:cover;
     width: 100%;
