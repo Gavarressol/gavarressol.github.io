@@ -148,6 +148,22 @@ section > p:first-of-type {
     margin: 5px 10px 20px 10px;
 }
 
+.fileType {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.boxHov:hover .fileType {
+    display: block;
+}
+
+
 
 
 footer{
@@ -183,6 +199,12 @@ footer{
 
 .logos{
     margin-top: 40px;
+}
+
+#logoHov:hover{
+    cursor: pointer;
+    transform: scale(1.4,1.4);
+    transition: 0.2s;
 }
 
 form{
