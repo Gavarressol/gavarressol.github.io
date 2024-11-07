@@ -24,4 +24,5 @@ Here is the link:
 > https://www.figma.com/design/N9LI8tLkUBntAVJ2KudNdQ/CV?node-id=0-1&t=aEGBNgdslE1gPMHA-1
 
 ## Website
-Here is the link to see the project: Gavarressol/gavarressol.github.io
+Here is the link to see the project: 
+> [ https://Gavarressol/gavarressol.github.io](https://gavarressol.github.io/)
