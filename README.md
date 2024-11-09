@@ -1,7 +1,10 @@
 # Arnau Herrera Portfolio
 
 ## Project analysis
-  
+- **User profile**
+
+  I am a soon-to-be graduate in Computer Engineering, currently seeking a full-time position aligned with my field. Highly motivated, with a solid academic background and practical experience in C, Java, C++, and Python programming, as well as network communication. Capable of working effectively under pressure and balancing multiple tasks. Ready to apply my technical skills to support team goals, while continually developing my talents to achieve higher levels of expertise in the future.
+    
 - **Distribuation**
 
   I organized my information into four sections: Header, About Me, Projects, and a Footer for contact details. In the Header, I included my name and professional title, as it’s essential to show who I am and what I do from the start.
